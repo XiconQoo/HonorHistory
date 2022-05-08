@@ -1,0 +1,7 @@
+## Interface: 20502
+## Title: Honor History
+## Author: Knall
+## Notes: Tracks today's and yesterday's honor in PvP-Tab
+## SavedVariablesPerCharacter: HonorHistorySV
+
+HonorHistory.lua
