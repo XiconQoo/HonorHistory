@@ -1,5 +1,6 @@
-## Interface: 20502
+## Interface: 20504
 ## Title: Honor History
+## Version: 1.00
 ## Author: Knall
 ## Notes: Tracks today's and yesterday's honor in PvP-Tab
 ## SavedVariablesPerCharacter: HonorHistorySV
